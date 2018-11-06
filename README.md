@@ -1,1 +1,1 @@
-# similar-products-carousel-proxy
+# proxy-wggodfrey

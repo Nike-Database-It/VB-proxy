@@ -11,7 +11,7 @@
 #gallery-container {
   display: inline-block;
   float: left;
-  width: 700px;
+  width: calc(100% - 452px);
   padding: 45px;
 }
 
